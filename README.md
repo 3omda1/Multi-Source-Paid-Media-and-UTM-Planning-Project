@@ -126,12 +126,13 @@ The complete project materials are available below.
 | [Final Presentation](./IKEA_Egypt_Paid_Media_Graduation_Project.pptx) | Final project presentation containing 19 slides |
 | [Paid Media & UTM Plan](./IKEA_Egypt_Paid_Media_UTM_Plan.xlsx) | Media planning, budgeting, UTM builder, attribution, dashboard, and optimization |
 
+
 ### Live Project
 
-**Landing Page:** [New Home Starter Bundle](https://new-home-starter-bundle.lovable.app/)
+**Live Landing Page:** [Live Project – New Home Starter Bundle](https://new-home-starter-bundle.lovable.app/)
 
 **CRM Demo:** [Lead Management Dashboard](https://new-home-starter-bundle.lovable.app/leads)
 
-The landing page and CRM were developed as part of the graduation project to demonstrate UTM attribution, lead capture, scoring, and AI-assisted follow-up.
+The live project demonstrates UTM tracking, lead capture, lead scoring, CRM integration, and AI-assisted WhatsApp follow-ups.
 
-The website is a student project and is not affiliated with or operated by IKEA Egypt.
+This website was developed as an educational case study and is not affiliated with IKEA Egypt.
