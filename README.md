@@ -1,64 +1,137 @@
+
+# Multi-Source Paid Media & UTM Planning System
+
+**DEPI Graduation Project — Advanced Marketing Automation with AI**
+
+**Case Study:** IKEA Egypt | New Home Starter Bundle
+
+## Project Name
+
 Multi-Source Paid Media & UTM Planning System
-DEPI Graduation Project — Advanced Marketing Automation with AI
-Case Study: IKEA Egypt | New Home Starter Bundle
-Project Name
-Multi-Source Paid Media & UTM Planning System
-Project Idea
-Our project focuses on planning and measuring paid media campaigns across different platforms instead of looking at each channel separately. We used IKEA Egypt's New Home Starter Bundle as a case study, targeting couples aged 24–34 who are furnishing their first apartment in New Cairo or 6th of October / Sheikh Zayed.
 
-The challenge is that customers often see several ads before making a purchase, while each platform reports results in its own way. We built a media plan that connects campaign goals, budget allocation, UTM tracking, attribution, and performance reporting so that decisions can be made using a clearer view of the customer journey.
+## Project Idea
 
-The project includes a landing page where visitors can request a planning session. Campaign links use consistent UTM parameters, and the form captures the lead's source, checks the submitted details, scores the lead, and saves it to a CRM. An AI-generated WhatsApp follow-up is prepared for the team to review and send.
+Our project focuses on planning and measuring paid media campaigns across different platforms rather than evaluating each channel separately.
 
-The campaign budget and performance figures in this project are simulated for educational purposes. This is a student case study, not an official IKEA Egypt campaign or an IKEA-affiliated website.
-Team Members
-- Ahmed EmadEldin
-- Ahmed ElMaghraby
-- Esraa Elshahat
-- Christena Nabil
-- Samar Ibrahim
-Work Plan
-The project was organized around four main stages:
-Stage	Work
-1. Planning	Research the market and target audience, define the offer and campaign objectives, and choose the advertising channels.
-2. Building	Prepare the media plan and budget workbook, UTM naming system, landing page, lead form, and CRM workflow.
-3. Testing and analysis	Check the UTM links and lead workflow, review the simulated 30-day campaign results, and compare attribution models.
-4. Final presentation	Prepare the documentation and slides, summarize the findings, and demonstrate how the landing page and dashboard work.
+We selected IKEA Egypt's **New Home Starter Bundle** as a case study, targeting couples aged 24–34 who are furnishing their first apartment in New Cairo, 6th of October, or Sheikh Zayed.
 
+The main challenge is that customers often interact with multiple ads before making a purchase, while each advertising platform reports conversions differently.
 
-The original project plan sets a one-month duration. More detailed planning and testing information is available in the documentation files below.
-Roles & Responsibilities
-The work covered the following areas:
-- Strategy and media planning: campaign objectives, audience research, funnel stages, channel selection, and budget allocation.
-- Tracking and attribution: UTM naming rules, campaign links, analytics events, and attribution comparisons.
-- Landing page and automation: form validation, lead scoring, AI-assisted follow-up drafts, and CRM records.
-- Analysis and reporting: campaign dashboard, simulated data, testing, optimization decisions, and the final presentation.
-KPIs
-We planned a 250,000 EGP monthly media budget across eight campaigns covering TikTok, YouTube, Snapchat, Meta, Google Search, Google Performance Max, and Email/WhatsApp activity.
+To address this, we developed a media planning system combining:
 
-The main target was a blended ROAS of at least 3.5×, with 2.86× used as the break-even benchmark in the model. We also tracked CTR, CPC, CPM, conversion rate, CPA, and how different channels contributed to conversions.
-Results from the simulated 30-day test
-Measure	Result
-Advertising spend	249,997 EGP
-Revenue	1,027,510 EGP
-Purchases	219
-Blended ROAS	4.11×
-Workflow test scenarios	25 of 25 passed after fixes
-Proposed budget reallocation	32,500 EGP
-Projected ROAS after reallocation	Approximately 4.8×
+- Multi-channel advertising strategy
+- Campaign budget allocation
+- UTM tracking and attribution
+- Landing page and lead generation
+- CRM and marketing automation
+- AI-assisted WhatsApp follow-ups
+- Campaign performance analysis and optimization
 
+The project also includes a landing page where visitors can request a planning session. Leads are validated, scored, and saved to a CRM with their campaign sources.
 
-The results helped us compare channels and decide which campaigns to scale, hold, refresh, or cut. All sales and advertising results shown here come from sample data, not live advertising accounts.
-Project Files
-The main project files are available in this repository:
-File	Contents
-[DEPI – Graduation Project Plan.docx](./DEPI%20%E2%80%93%20Graduation%20Project%20Plan.docx)	Project overview, audience, objectives, timeline, and deliverables.
-[IKEA_Egypt_Graduation_Project_Documentation.docx](./IKEA_Egypt_Graduation_Project_Documentation.docx)	Detailed strategy, system design, implementation, testing, and analysis.
-[IKEA_Egypt_Paid_Media_Graduation_Project.pptx](./IKEA_Egypt_Paid_Media_Graduation_Project.pptx)	Final presentation (19 slides).
-[IKEA_Egypt_Paid_Media_UTM_Plan.xlsx](./IKEA_Egypt_Paid_Media_UTM_Plan.xlsx)	Media plan, budget split, UTM builder, attribution models, sample data, dashboard, and optimization (13 sheets).
+**Note:** IKEA Egypt is used as an educational case study. Campaign performance figures are simulated and do not represent actual IKEA Egypt advertising results.
 
+## Team Members
 
-Live project: New Home Starter Bundle — Landing Page
-CRM demonstration: Lead Management Page (restricted access)
+1. Ahmed ElMaghraby
+2. Ahmed EmadEldin
+3. Esraa Elshahat
+4. Christena Nabil
+5. Samar Ibrahim
 
-The landing page was created for this graduation project and is not an official IKEA website.
+## Work Plan
+
+The project was organized into four main stages:
+
+| Stage | Activities |
+|---|---|
+| 1. Planning | Market research, audience analysis, campaign objectives, and channel selection |
+| 2. Building | Media planning, budget allocation, UTM tracking, landing page, and CRM automation |
+| 3. Testing & Analysis | Testing campaign links, lead workflows, attribution models, and performance data |
+| 4. Final Presentation | Preparing documentation, dashboards, presentation slides, and the live demonstration |
+
+**Project Duration:** 1 Month
+
+## Roles & Responsibilities
+
+The project work covered the following main areas:
+
+**Strategy & Media Planning**
+- Market and audience research
+- Campaign objectives and funnel planning
+- Advertising channel selection
+- Budget allocation
+
+**Tracking & Attribution**
+- UTM naming conventions
+- Campaign URL tracking
+- Analytics event mapping
+- Attribution model comparison
+
+**Landing Page & Automation**
+- Landing page development
+- Lead form validation
+- Lead scoring and CRM integration
+- AI-generated WhatsApp follow-up drafts
+
+**Analysis & Reporting**
+- Performance dashboard
+- Simulated campaign data analysis
+- Campaign optimization decisions
+- Testing and final presentation
+
+## KPIs
+
+The project uses a monthly advertising budget of **250,000 EGP** across eight campaigns involving TikTok, YouTube, Snapchat, Meta, Google Search, Google Performance Max, and Email/WhatsApp activities.
+
+Our main performance objective is to achieve a blended Return on Ad Spend (ROAS) of at least **3.5x**.
+
+### Main Performance Indicators
+
+| KPI | Description |
+|---|---|
+| ROAS | Return on advertising spend |
+| CTR | Click-through rate |
+| CPC | Cost per click |
+| CPM | Cost per 1,000 impressions |
+| Conversion Rate | Percentage of visitors completing an action |
+| CPA | Cost per acquisition |
+| Attribution | Contribution of different marketing channels |
+| Lead Quality | Lead scoring and prioritization |
+
+### Simulated 30-Day Test Results
+
+| Metric | Result |
+|---|---|
+| Monthly Budget | 250,000 EGP |
+| Advertising Spend | 249,997 EGP |
+| Simulated Revenue | 1,027,510 EGP |
+| Purchases | 219 |
+| Target ROAS | 3.5x |
+| Achieved ROAS (Simulated) | 4.11x |
+| Workflow Testing | 25/25 scenarios passed after fixes |
+| Proposed Budget Reallocation | 32,500 EGP |
+| Projected ROAS After Optimization | Approximately 4.8x |
+
+These simulated results were used to identify which campaigns should be scaled, maintained, refreshed, or stopped.
+
+## Project Files
+
+The complete project materials are available below.
+
+| File | Description |
+|---|---|
+| [DEPI Graduation Project Plan](./DEPI%20%E2%80%93%20Graduation%20Project%20Plan.docx) | Project objectives, target audience, timeline, and deliverables |
+| [Project Documentation](./IKEA_Egypt_Graduation_Project_Documentation.docx) | Detailed research, strategy, system design, implementation, and testing |
+| [Final Presentation](./IKEA_Egypt_Paid_Media_Graduation_Project.pptx) | Final project presentation containing 19 slides |
+| [Paid Media & UTM Plan](./IKEA_Egypt_Paid_Media_UTM_Plan.xlsx) | Media planning, budgeting, UTM builder, attribution, dashboard, and optimization |
+
+### Live Project
+
+**Landing Page:** [New Home Starter Bundle](https://new-home-starter-bundle.lovable.app/)
+
+**CRM Demo:** [Lead Management Dashboard](https://new-home-starter-bundle.lovable.app/leads)
+
+The landing page and CRM were developed as part of the graduation project to demonstrate UTM attribution, lead capture, scoring, and AI-assisted follow-up.
+
+The website is a student project and is not affiliated with or operated by IKEA Egypt.
